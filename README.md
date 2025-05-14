@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @cash717
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ᡕᠵ᠊ᡃ່࡚ࠢ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘𐡏 ➳
-- 📫 How to reach me ...
+- 👋 Hi, I’m @anonymouscoder
+- 👀 I’m interested in any and all work 
+- 🌱 I’m currently learning computer coding 
+- 💞️ I’m looking to collaborate on coding for software development 
+- 📫 How to reach me braydenarterburn757@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ¯\_(ツ)_/¯
+- ⚡ Fun fact: I have a few codes written 
 
 <!---
 cash717/cash717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
